@@ -307,3 +307,29 @@ a img{
     padding:10px;
     background-color: rgb(225, 223, 223);
 }
+.ad-hd{
+    padding:10px;
+    border-radius: 3px;
+    text-align: center;
+    background-color:rgb(237, 232, 232);
+}
+.ad-hdd{
+    color:green;
+}
+.ad-sup{
+    font-weight:bold;
+    color:red;
+}
+.form-group label{
+    font-size:12px;
+}
+.form-style input{
+    height: 30px;
+}
+.info{
+    padding:10px;
+    background-color:rgba(245, 242, 242, 0.878);
+}
+.foot{
+    margin-bottom:50px;
+}
