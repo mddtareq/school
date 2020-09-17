@@ -299,9 +299,7 @@ ol a{
     margin-bottom: 20px;
 }
 a img{
-    height: 20px!important;
-    width: 20px!important;
-    margin-right: 5px!important;
+    margin-right: 5px;
 }
 .teacher{
     font-weight:bold;
